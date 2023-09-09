@@ -1,12 +1,8 @@
 import Link from "next/link"
 import Logo from "./Logo"
 import { CalendarDaysIcon, PresentationChartBarIcon, QuestionMarkCircleIcon } from '@heroicons/react/24/solid'
-import { useShoppingCart } from "use-shopping-cart"
-
 
 export default function Header() {
-
-    const { formattedTotalPrice, cartCount} = useShoppingCart();
 
     return (
         <header className='sticky top-0 bg-white z-10 shadow'> 
