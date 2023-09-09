@@ -1,4 +1,7 @@
+/* eslint-disable react/no-unescaped-entities */
+import Image from "next/image"
 import { CheckBadgeIcon } from '@heroicons/react/24/solid'
+
 const Testimonials = () => {
     return (
         <div>
@@ -36,7 +39,7 @@ const Testimonials = () => {
                 
                 <div className="mb-12 md:mb-0">
                     <div className="mb-6 flex justify-center">
-                        <img src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20(1).jpg" className="w-32 rounded-full shadow-lg dark:shadow-black/30" />
+                        <Image width={500} height={500} src="/misc/girl-one.jpeg" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial one person'/>
                     </div>
                     <h5 className="mb-4 text-xl font-semibold">Dr. Patel T, MD</h5>
                     <p className="mb-4 text-lg">
@@ -55,9 +58,7 @@ const Testimonials = () => {
                 </div>
                 <div className="mb-12 md:mb-0">
                     <div className="mb-6 flex justify-center">
-                    <img
-                        src="/misc/person--round.jpg"
-                        className="w-32 rounded-full shadow-lg dark:shadow-black/30" />
+                    <Image width={500} height={500} src="/misc/person--round.jpg" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person two'/>
                     </div>
                     <h5 className="mb-4 text-xl font-semibold">John B</h5>
                     <p className="mb-4 text-lg">
@@ -75,9 +76,7 @@ const Testimonials = () => {
                 </div>
                 <div className="mb-1 md:mb-0">
                     <div className="mb-6 flex justify-center">
-                    <img
-                        src="https://tecdn.b-cdn.net/img/Photos/Avatars/img%20(2).jpg"
-                        className="w-32 rounded-full shadow-lg dark:shadow-black/30" />
+                    <Image width={500} height={500} src="/misc/girl-two.jpeg" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person three'/>
                     </div>
                     <h5 className="mb-4 text-xl font-semibold">Alex H.</h5>
                     <p className="mb-4 text-lg">

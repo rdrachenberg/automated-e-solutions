@@ -19,7 +19,7 @@ export default function Home({products}) {
         <div className='grid grid-cols-2 gap-2'>
         <div className='grid-col-2 py-6 px-6 bg-slate-300 rounded-lg'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
           <div className='grid-col-2 py-6 px-6 border-2 rounded shadow-md'>
-            <Image width={500} height={500} src='/misc/maxresdefault.jpg' className='' />
+            <Image width={500} height={500} src='/misc/maxresdefault.jpg' alt='placeholder' priority />
           </div>
         </div>
       </div>

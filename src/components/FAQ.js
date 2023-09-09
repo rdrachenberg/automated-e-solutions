@@ -18,13 +18,13 @@ const FAQ = () => {
                     our sales team</Link>.
                 </p>
                 <div className='p-3 mb-20 mx-auto'>
-                    <Image width={500} height={500} src='/misc/faq-2.jpg'/>
+                    <Image width={500} height={500} src='/misc/faq-2.jpg' alt='light bulb ecommerce business'/>
                 </div>
                 <div className='p-3 border-8 border-orange-300 w-96 mx-auto'>
-                    <Image width={400} height={500} src='/misc/faq.jpg'/>
+                    <Image width={400} height={500} src='/misc/faq.jpg' alt='Frequently asked questions ecommerce business'/>
                 </div>
                 <div className=' p-3 mt-20 border-8 border-green-500 max-w-max mx-auto'>
-                    <Image width={400} height={500} src='/misc/success.jpg'/>
+                    <Image width={400} height={500} src='/misc/success.jpg' alt='plan for success ecommerce business'/>
                 </div>
             </div>
 
