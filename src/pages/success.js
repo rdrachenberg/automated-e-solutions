@@ -5,7 +5,7 @@ import { useRouter } from 'next/router';
 export default function SuccessPage() {
     const router = useRouter();
     const email = 'placeholder@gmail.com'
-   
+    const error = ''
 
     return (
         <div className='container xl:max-w-screen-xl mx-auto py-12 px-6 text-center'>
