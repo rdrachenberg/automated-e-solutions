@@ -14,12 +14,12 @@ const handleCalClick = (e, path) => {
 export default function Home({products}) {
   return (
     
-    <div className='container xl:max-w-screen-xl mx-auto py-12 px-6 '>
+    <div className='container xl:max-w-screen-xl mx-auto lg:py-1 px-6 sm:py-6 '>
       <div className='row py-6 text-center font-bold text-3xl text-black '> 
-        <div className='lg:grid grid-cols-2 gap-2 sm:grid sm:grid-cols-1'>
-        <div className='grid-col-2 py-6 px-6 bg-slate-300 rounded-lg'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
-          <div className='grid-col-2 py-6 px-6 border-2 rounded shadow-md'>
-            <Image width={500} height={500} src='/misc/maxresdefault.jpg' alt='placeholder' priority />
+        <div className='grid-cols-1 gap-1' >
+        <div className='grid-col-1 py-6 px-6 bg-slate-300 rounded-lg mx-auto'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
+          <div className='grid-col-1 py-6 px-6 border-2 rounded shadow-md'>
+            <Image width={500} height={500} src='/misc/maxresdefault.jpg' alt='placeholder' priority className='mx-auto' />
           </div>
         </div>
       </div>

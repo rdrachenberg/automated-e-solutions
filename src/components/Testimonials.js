@@ -5,9 +5,9 @@ import { CheckBadgeIcon } from '@heroicons/react/24/solid'
 const Testimonials = () => {
     return (
         <div>
-            <div className=" bg-cover bg-center bg-[url('/misc/singpost.png')] h-20">
-                <div className="mx-auto text-center md:max-w-xl lg:max-w-3xl">
-                    <div className="mb-6 text-4xl font-bold text-neutral-800 dark:text-neutral-200">
+            <div className=" bg-cover bg-center bg-[url('/misc/singpost.png')] h-20 z-0">
+                <div className="mx-auto text-center md:max-w-xl lg:max-w-3xl z-10">
+                    <div className="mb-6 text-4xl font-bold text-neutral-800 dark:text-black z-20">
                         Why work with us?
                     </div>
                 </div>
@@ -15,8 +15,6 @@ const Testimonials = () => {
             <div className='text-left bg-slate-700 rounded-xl p-6 mb-12 shadow-2xl'>
                 <h4 className="mb-6 text-1xl font-bold text-cyan-50 bg-gradient-to-r from-blue-600 to-violet-600 p-3 rounded-xl">
                     We do all the hardwork!
-                    
-                
                 </h4>
                 <p className="mb-1 pb-1 md:mb-1 md:pb-0 text-lg text-cyan-50">
                     Specialist in crafting tailored, turnkey solutions that will transform your online business aspirations into actual cashflowing achievements.
