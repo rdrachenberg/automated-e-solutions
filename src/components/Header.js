@@ -5,7 +5,7 @@ import { CalendarDaysIcon, PresentationChartBarIcon, QuestionMarkCircleIcon } fr
 export default function Header() {
 
     return (
-        <header className='sticky top-0 bg-white z-10 shadow'> 
+        <header className='sticky top-0 bg-white z-10 shadow min-w-full'> 
             <div className='container mx-auto p-6 flex justify-between'>
                 <Logo />
                 <Link href='/#faq' className='flex items-center space-x-1 text-gray-700 hover:text-red-500'>
