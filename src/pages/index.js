@@ -4,6 +4,7 @@ import CalendylyForm from "/src/components/CalendlyForm"
 import Testimonials from "src/components/Testimonials"
 import Qualify from 'src/components/Qualify'
 import FAQ from 'src/components/FAQ'
+import QualifyStepper from "src/components/Stepper"
 
 const handleCalClick = (e, path) => {
   if(path === '/#calender'){
@@ -47,9 +48,15 @@ export default function Home({products}) {
           <Qualify />    
         </div>
       </div>
-      <div className='row py-12 text-center font-bold text-3xl' id='calender'>
+      <div className='row py-12 mb-96 text-center font-bold text-3xl' id='calender'>
         <div className='grid grid-cols-1 gap-1'>
           <CalendylyForm />
+        </div>
+      </div>
+      <div className='h-3 mb-10 mt-20 bg-gradient-to-r from-slate-300 to-slate-500 rounded-md' id='stepper'></div>
+      <div className='row py-12 text-center font-bold text-3xl' >
+        <div className='grid grid-cols-1 gap-1'>
+          <QualifyStepper />
         </div>
       </div>
     </div>
