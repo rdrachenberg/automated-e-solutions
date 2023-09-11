@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { useState, useEffect } from "react";
 
 
@@ -12,8 +13,13 @@ export default function Footer() {
     return (
         <footer className='border-t border-gray-100 py-10 text-center'>
             <p className='text-sm text-gray-500'>
-                @ {dateYear} Any Store. All rights reserved 
+                @ {dateYear} Automated Ecomm Investments, LLC. All rights reserved 
             </p>
+            <Link href={'/tos'}>
+                <p className='text-sm text-gray-500'>
+                    Terms of Service
+                </p>
+            </Link>
         </footer>
     )
 }
