@@ -7,8 +7,8 @@ const FAQ = () => {
         <div className="container mt-3 mx-auto md:px-6 bg-white p-10 rounded-md">
         
         <section className="mb-2">
-            <div className="grid gap-4 md:grid-cols-2">
-            <div className="mb-6 md:mb-0">
+            <div className="grid gap-4 md:grid-cols-2 sm:min-w-0">
+            <div className="mb-6 md:mb-0 justify-center ">
                 <h2 className="mb-6 text-3xl font-bold">Frequently asked questions</h2>
 
                 <p className="text-neutral-500 dark:text-black">
@@ -17,14 +17,16 @@ const FAQ = () => {
                     className="text-blue-500 transition duration-300 hover:text-primary-600 focus:text-primary-600 active:text-primary-700 dark:text-primary-400 dark:hover:text-primary-500 dark:focus:text-primary-500 dark:active:text-primary-600"> Contact
                     our sales team</Link>.
                 </p>
-                <div className='p-3 mb-20 mx-auto'>
-                    <Image width={500} height={500} src='/misc/faq-2.jpg' alt='light bulb ecommerce business'/>
-                </div>
-                <div className='p-3 border-8 border-orange-300 w-96 mx-auto'>
-                    <Image width={400} height={500} src='/misc/faq.jpg' alt='Frequently asked questions ecommerce business'/>
-                </div>
-                <div className=' p-3 mt-20 border-8 border-green-500 max-w-max mx-auto'>
-                    <Image width={400} height={500} src='/misc/success.jpg' alt='plan for success ecommerce business'/>
+                <div className="hidden md:block">
+                    <div className='p-3 mb-20 mx-auto'>
+                        <Image width={500} height={500} src='/misc/faq-2.jpg' alt='light bulb ecommerce business' className='mx-auto'/>
+                    </div>
+                    <div className='p-3 border-8 border-orange-300 w-96 mx-auto'>
+                        <Image width={400} height={500} src='/misc/faq.jpg' alt='Frequently asked questions ecommerce business'/>
+                    </div>
+                    <div className=' p-3 mt-20 border-8 border-green-500 max-w-max mx-auto'>
+                        <Image width={400} height={500} src='/misc/success.jpg' alt='plan for success ecommerce business'/>
+                    </div>
                 </div>
             </div>
 

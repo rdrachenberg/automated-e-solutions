@@ -2,8 +2,8 @@ import { InlineWidget } from "react-calendly";
 
 const CalendlyForm = () => {
     return (
-        <div>
-            <InlineWidget url='https://calendly.com/automated-ecommerce/30min' />
+        <div className='h-screen' id='stepper'>
+            <InlineWidget url='https://calendly.com/d/2wx-w4h-d6y' style={{height: '900px'}}/>
         </div>
     )
 }
