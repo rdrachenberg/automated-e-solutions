@@ -13,7 +13,7 @@ export default function Header() {
                         <QuestionMarkCircleIcon className='w-7 h-7 flex-shrink-0' />
                     </div>
                 </Link>
-                <Link href='/#qualify' className='flex items-center space-x-1 text-gray-700 hover:text-orange-300'>
+                <Link href='/#calender' className='flex items-center space-x-1 text-gray-700 hover:text-orange-300'>
                     <div className='relative'>
                         
                         <PresentationChartBarIcon className='w-7 h-7 flex-shrink-0' />
