@@ -19,8 +19,8 @@ export default function Home({products}) {
       <div className='row py-6 text-center font-bold text-3xl text-black '> 
         <div className='grid-cols-1 gap-1' >
         <div className='grid-col-1 py-6 px-6 bg-slate-300 rounded-lg mx-auto'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
-          <div className='grid-col-1 py-6 px-6 border-2 rounded shadow-md'>
-            <Image width={500} height={500} src='/misc/maxresdefault.jpg' alt='placeholder' priority className='mx-auto my-auto' />
+          <div className='grid-col-1 py-6 px-6 border-2 rounded shadow-md mx-auto'>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/tDXfHIcd-ko?si=L06A-1F_UZ-AD-je" title="e-commerce digital storefront business" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='mx-auto'></iframe>
           </div>
         </div>
       </div>
