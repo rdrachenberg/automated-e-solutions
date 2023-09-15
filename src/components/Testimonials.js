@@ -12,8 +12,8 @@ const Testimonials = () => {
                     </div>
                 </div>
             </div>
-            <div className='text-left bg-slate-700 rounded-xl p-6 mb-12 shadow-2xl'>
-                <h4 className="mb-6 text-1xl font-bold text-cyan-50 bg-gradient-to-r from-blue-600 to-violet-600 p-3 rounded-xl">
+            <div className='text-center bg-slate-700 rounded-xl p-6 mb-12 shadow-2xl'>
+                <h4 className="mb-6 text-lg sm:text-2xl mx-auto font-bold text-cyan-50 bg-gradient-to-r from-indigo-400 to-cyan-400 p-3 rounded-xl">
                     We do all the heavy lifting!
                 </h4>
                 <p className="mb-1 pb-1 md:mb-1 md:pb-0 text-lg text-cyan-50">
