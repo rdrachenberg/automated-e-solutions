@@ -33,38 +33,38 @@ const FAQ = () => {
             <div className="mb-6 md:mb-0">
                 <p className="mb-4 font-bold">How long does it take until my store is running?</p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                It usually takes a month before your store is running and your first inventory purchase is sent into your FBA account at which point you'll begin to see sales. It takes 3-6 months until your Store scales to it's full operating potential and maximizes your desired level of Inventory Purchasing Power.
+                Typically, it takes about a month for your store to become operational and for your initial inventory purchase to be sent to your FBA account. Full scaling to maximize inventory purchasing power usually takes 3-6 months. How truly passive is this business?
                 </p>
 
                 <p className="mb-4 font-bold">Is this a truly passive business?</p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Based upon our experience, an average client spends 3-6 hours per month on this business. At the end of the day, it is your store and it is your asset. Your main responsibility will be to purchase more inventory, and make sure your collecting amazon payouts and paying off your inventory purchases.
+                On average, clients spend only 3-6 hours per month on this business. Your main responsibilities include purchasing inventory, managing Amazon payouts, and paying off inventory purchases.
                 </p>
 
                 <p className="mb-4 font-bold">
-                Do you have your worn warehouses? Is this an American operation?
+                Do you have your own warehouses? Is this an American operation?
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Yes and Yes. Most of our operation is done in house in our warehouses in Florida and California. We have a third office with backend support outside the US as well. We source inventory from brands, distributors, and wholesalers across the U.S. and disperse this inventory from our warehouses to our partner Store's FBA accounts.
+                Yes, we operate a mix of our own warehouses and utilize third parties in Florida and California. We also have a third office with backend support in and outside the US. We source inventory from various locations in the US and distribute it from our warehouses to our partner Store's FBA / Arbitrage accounts.
                 </p>
                 <p className="mb-4 font-bold">
                 Why dont you just open up a bunch of digital stores?
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Amazon only allows 1 Seller per household. They track IP addresses to ensure this is upheld. Capital reasons and economy of scale. We leverage client's capital to allow them to buy wholesale items from us at a discount and sell on Amazon; then we take a percentage of that and are able to scale the operations further and source better product deals for all of our partners. We aggressively pursue arbitrage opportunities that presnet themsleves allowing us to maximize capital efficiency and ultimatly your ROI. 
+                Amazon only allows 1 Seller per household. They track IP addresses to ensure this is upheld. Amazon permits only one seller per household.. b.	Capital reasons. We utilize our clients' capital to enable them to buy wholesale items at a discount, sell on Amazon, and then reinvest a percentage for scaling operations and sourcing better product deals Realistically, what can I expect to earn from my partner store?
                 </p>
                 <p className="mb-4 font-bold">
                 Realistically, what can I expect to earn from my partner store??
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Typical monthly returns for our partner stores range from 10%-15% of their store's total revenue after the profit split (once the store has been scaled and running at full capacity). So the more inventory you purchase to send into your store, the more you can expect to earn from a revenue perspective and with the margins remaining the same, you'll also make more profit.Ultimately, our partners who do the best, have more capital to deploy and are better organized in securing and managing their business's lines of credit and cash flow.
+                Typically, our partner stores generate monthly returns ranging from 10% to 15% of their total revenue after the profit split,  once the store is fully scaled. The more inventory you purchase, the higher your potential earnings, with profit margins remaining constant. Successful partners often have more capital and effective credit and cash flow management.
 
                 </p>
                 <p className="mb-4 font-bold">
                 Is the AMZ Market Over-Saturated?
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                No - for the marketplace to be saturated there would have to be more sellers than buyers on Amazon on a month-to-month basis. There are 4M seller accounts vs 200M Prime Subscribers. Amazon did $502.19B in 2022. 3rd Party sellers make up 50% of Amazon’s total sales.
+                No, the Amazon marketplace is not over-saturated nor is e-commerce in general. Amazon has 4 million seller accounts compared to 200 million Prime subscribers, with $502.19 billion in revenue on Amazon in 2022. Third-party sellers constitute 50% of Amazon's total sales, indicating ample opportunities for growth.
                 </p>
                 
             </div>
