@@ -1,7 +1,6 @@
 import { useRef } from "react";
 import { Form } from '@unform/web'
 import { useFormData } from "src/context";
-import * as up from 'yup'
 
 export default function MonthlyGoals({formStep, nextFormStep, increase}) {
     const {setFormValues} = useFormData();

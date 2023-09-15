@@ -3,7 +3,6 @@
 import { useRef } from "react";
 import { Form } from '@unform/web'
 import { useFormData } from "src/context";
-import * as up from 'yup'
 import { CheckCircleIcon } from "@heroicons/react/24/solid";
 import Link from "next/link";
 
