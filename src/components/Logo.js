@@ -8,6 +8,9 @@ export default function Logo() {
             <span className='hidden sm:inline-block font-extrabold text-3xl text-gray-700'>
                 Automated Ecomm Investments
             </span>
+            <span className='sm:hidden font-extrabold text-3xl text-gray-700'>
+                AECI
+            </span>
         </Link>
     )
 }
