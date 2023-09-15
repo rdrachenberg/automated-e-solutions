@@ -17,10 +17,14 @@ export default function Home({products}) {
     
     <div className='container xl:max-w-screen-xl mx-auto lg:py-1 px-6 sm:py-6 '>
       <div className='row py-6 text-center font-bold text-3xl text-black '> 
-        <div className='grid-cols-1 gap-1' >
-        <div className='grid-col-1 py-6 px-6 bg-slate-300 rounded-lg mx-auto'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
-          <div className='grid-col-1 py-6 px-6 border-2 rounded shadow-md mx-auto'>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/tDXfHIcd-ko?si=L06A-1F_UZ-AD-je" title="e-commerce digital storefront business" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='mx-auto'></iframe>
+        <div className='' >
+        <div className='bg-slate-300 rounded-lg mx-auto'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
+          <div className='border-2 rounded shadow-md mx-auto flex items-center justify-center'>
+          <div className='flex-1 p-4 rounded-lg max-w-4xl sm:p-8'>
+            <div className='aspect-w-16 aspect-h-9'>
+              <iframe src="https://www.youtube.com/embed/tDXfHIcd-ko?si=L06A-1F_UZ-AD-je" title="e-commerce digital storefront business" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen className='mx-auto'></iframe>
+            </div>
+          </div>
           </div>
         </div>
       </div>
