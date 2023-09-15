@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image from "next/image"
-import { CheckBadgeIcon } from '@heroicons/react/24/solid'
+import { CheckBadgeIcon, Cog6ToothIcon, CurrencyDollarIcon, ChartBarIcon, CursorArrowRaysIcon, ClipboardDocumentCheckIcon, ChatBubbleBottomCenterIcon, ComputerDesktopIcon } from '@heroicons/react/24/solid'
 
 const Testimonials = () => {
     return (
@@ -14,7 +14,7 @@ const Testimonials = () => {
             </div>
             <div className='text-left bg-slate-700 rounded-xl p-6 mb-12 shadow-2xl'>
                 <h4 className="mb-6 text-1xl font-bold text-cyan-50 bg-gradient-to-r from-blue-600 to-violet-600 p-3 rounded-xl">
-                    We do all the hardwork!
+                    We do all the heavy lifting!
                 </h4>
                 <p className="mb-1 pb-1 md:mb-1 md:pb-0 text-lg text-cyan-50">
                     Specialist in crafting tailored, turnkey solutions that will transform your online business aspirations into actual cashflowing achievements.
@@ -27,8 +27,29 @@ const Testimonials = () => {
                     <li className='text-lg font-semibold pb-4'>Say goodbye to the complexities of operating digital storefronts. We handle everything from A to Z, allowing you to focus on growing your brand.</li>
                     <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Customized Strategies:</li>
                     <li className='text-lg font-semibold pb-4'>We understand that every business is unique. Our strategies are tailor-made to fit your specific goals, ensuring maximum return on investment.</li>
-                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Continuous Optimization:</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><Cog6ToothIcon className='flex w-7 text-gray-300 mr-1' />Continuous Optimization:</li>
                     <li className='text-lg font-semibold pb-4'>In the fast-paced digital landscape, we dont rest on our laurels. Our team continuously fine-tunes your digital storefronts to adapt to market trends, algorithm changes, and customer preferences.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Comprehensive Support: </li>
+                    <li className='text-lg font-semibold pb-4'>We offer end-to-end assistance in launching and maintaining successful Amazon e-commerce stores, ensuring you can focus on other aspects of your business while we handle the rest.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CurrencyDollarIcon className='flex w-7 text-green-400 mr-1' />Initial Fee Waiver:</li>
+                    <li className='text-lg font-semibold pb-4'>Unlike others, we won't charge any management fees for the first 90 days, giving you a chance to experience the quality of our service before committing further.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><ChartBarIcon className='flex w-7 text-green-500 mr-1' />Protecting Your Investment: </li>
+                    <li className='text-lg font-semibold pb-4'>In the unlikely event of any issues with your store, we go the extra mile by refunding the cost of your store, ensuring your investment is safeguarded.These additional benefits highlight why we are the top choice for individuals seeking hassle-free and profitable e-commerce store management.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CursorArrowRaysIcon className='flex w-7 text-green-500 mr-1' />Customized Strategies:  </li>
+                    <li className='text-lg font-semibold pb-4'>We tailor our management approach to your specific business goals and needs, providing personalized strategies for optimum performance.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><ClipboardDocumentCheckIcon className='flex w-7 text-green-500 mr-1' />Transparent Reporting:  </li>
+                    <li className='text-lg font-semibold pb-4'>You'll have access to detailed reports and analytics, allowing you to monitor the progress and success of your e-commerce store at all times.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><ChatBubbleBottomCenterIcon className='flex w-7 text-green-500 mr-1' />Responsive Customer Support:  </li>
+                    <li className='text-lg font-semibold pb-4'>Our customer support team is available to address any questions or concerns promptly, ensuring you're never left in the dark.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Proven Success Stories:   </li>
+                    <li className='text-lg font-semibold pb-4'>Check out our portfolio of success stories and testimonials from satisfied clients who have experienced significant growth and profitability with our services.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Stress-Free Management:   </li>
+                    <li className='text-lg font-semibold pb-4'>Our 95% hands-off approach means you can enjoy the benefits of e-commerce without the stress and time commitment usually associated with it.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><ComputerDesktopIcon className='flex w-7 text-green-500 mr-1' />Cutting-Edge Technology:</li>
+                    <li className='text-lg font-semibold pb-4'>We leverage the latest e-commerce tools and technology to stay ahead of the competition and deliver superior results.</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Competitive Pricing: </li>
+                    <li className='text-lg font-semibold pb-4'>Our pricing remains competitive while offering a range of comprehensive services, ensuring you get excellent value for your investment.</li>
+
                 </ul>
             </div>
 
