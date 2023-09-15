@@ -13,13 +13,13 @@ const Testimonials = () => {
                 </div>
             </div>
             <div className='text-center bg-slate-700 rounded-xl p-6 mb-12 shadow-2xl'>
-                <h4 className="mb-6 text-lg sm:text-2xl mx-auto font-bold text-cyan-50 bg-gradient-to-r from-indigo-400 to-cyan-400 p-3 rounded-xl">
+                <h4 className="mb-6 text-lg sm:text-2xl mx-auto text-semibold text-cyan-50 bg-gradient-to-r from-indigo-400 to-cyan-400 p-3 rounded-xl">
                     We do all the heavy lifting!
                 </h4>
                 <p className="mb-1 pb-1 md:mb-1 md:pb-0 text-lg text-cyan-50">
                     Specialist in crafting tailored, turnkey solutions that will transform your online business aspirations into actual cashflowing achievements.
                 </p>
-                <ul width={'w-96'} className='text-white p-3 '>
+                <ul width={'w-96'} className='text-white text-left p-3 '>
                     
                     <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Expertise That Delivers:</li>
                     <li  className='text-lg font-semibold pb-4'>Our team of seasoned professionals has a proven track record of skyrocketing sales and elevating brands to new levels of success.</li>
