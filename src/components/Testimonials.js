@@ -1,10 +1,11 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image from "next/image"
-import { CheckBadgeIcon, Cog6ToothIcon, CurrencyDollarIcon, ChartBarIcon, CursorArrowRaysIcon, ClipboardDocumentCheckIcon, ChatBubbleBottomCenterIcon, ComputerDesktopIcon } from '@heroicons/react/24/solid'
+import { CheckBadgeIcon, Cog6ToothIcon, CurrencyDollarIcon, ChartBarIcon, CursorArrowRaysIcon, ClipboardDocumentCheckIcon, ChatBubbleBottomCenterIcon, ComputerDesktopIcon, NoSymbolIcon, BanknotesIcon } from '@heroicons/react/24/solid'
 
 const Testimonials = () => {
     return (
         <div>
+            
             <div className="border-4 rounded-1xl  h-20 z-0">
                 <div className="mx-auto text-center md:max-w-xl lg:max-w-3xl sm:max-w-sm z-10">
                     <div className="mb-6 text-2xl sm:text-3xl pt-6 font-bold  text-neutral-800 dark:text-black z-20">
@@ -43,11 +44,11 @@ const Testimonials = () => {
                     <li className='text-lg font-semibold pb-4'>Our customer support team is available to address any questions or concerns promptly, ensuring you're never left in the dark.</li>
                     <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Proven Success Stories:   </li>
                     <li className='text-lg font-semibold pb-4'>Check out our portfolio of success stories and testimonials from satisfied clients who have experienced significant growth and profitability with our services.</li>
-                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Stress-Free Management:   </li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><NoSymbolIcon className='flex w-7 text-green-500 mr-1' />Stress-Free Management:   </li>
                     <li className='text-lg font-semibold pb-4'>Our 95% hands-off approach means you can enjoy the benefits of e-commerce without the stress and time commitment usually associated with it.</li>
                     <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><ComputerDesktopIcon className='flex w-7 text-green-500 mr-1' />Cutting-Edge Technology:</li>
                     <li className='text-lg font-semibold pb-4'>We leverage the latest e-commerce tools and technology to stay ahead of the competition and deliver superior results.</li>
-                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Competitive Pricing: </li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><BanknotesIcon className='flex w-7 text-green-500 mr-1' />Competitive Pricing: </li>
                     <li className='text-lg font-semibold pb-4'>Our pricing remains competitive while offering a range of comprehensive services, ensuring you get excellent value for your investment.</li>
 
                 </ul>

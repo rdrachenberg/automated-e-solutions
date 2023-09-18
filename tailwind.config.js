@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+const plugin = require('tailwindcss/plugin')
 module.exports = {
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
@@ -16,5 +17,10 @@ module.exports = {
       },
     },
   },
-  plugins: [require("@tailwindcss/aspect-ratio")],
+  plugins: [
+    require("@tailwindcss/aspect-ratio"),
+    plugin(function({addVariant}){
+      addVariant('active', ['&:active', '&.router-link-active'])
+    }),
+  ],
 }

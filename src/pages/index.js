@@ -4,7 +4,7 @@ import CalendylyForm from "/src/components/CalendlyForm"
 import Testimonials from "src/components/Testimonials"
 import Qualify from 'src/components/Qualify'
 import FAQ from 'src/components/FAQ'
-import QualifyStepper from "src/components/Stepper"
+import CompanyLogos from 'src/components/CompanyLogos'
 
 const handleCalClick = (e, path) => {
   if(path === '/#calender'){
@@ -12,13 +12,14 @@ const handleCalClick = (e, path) => {
   }
 }
 
-export default function Home({products}) {
+export default function Home({}) {
   return (
     
     <div className='container xl:max-w-screen-xl mx-auto lg:py-1 px-6 sm:py-6 '>
-      <div className='row py-6 text-center font-bold text-3xl text-black '> 
-        <div className='' >
-        <div className='bg-slate-300 rounded-lg mx-auto'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
+      <div className='row py-6 text-center font-bold text-black '> 
+        
+        <div className='inline-block sm:hidden text-xl mb-5'>Automated Ecomm Investments</div>
+        <div className='bg-slate-300 rounded-lg mx-auto sm:text-3xl'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
           <div className='border-2 rounded shadow-md mx-auto flex items-center justify-center'>
           <div className='flex-1 p-4 rounded-lg max-w-4xl sm:p-8'>
             <div className='aspect-w-16 aspect-h-9'>
@@ -26,7 +27,7 @@ export default function Home({products}) {
             </div>
           </div>
           </div>
-        </div>
+        
       </div>
       <div className='row pt-3 pb-12'>
         <div className='flex flex-col items-center font-semibold text-2xl'>
@@ -35,6 +36,7 @@ export default function Home({products}) {
           </Link>
         </div>
       </div>
+      <CompanyLogos />
       <div className='h-3 mb-20 bg-gradient-to-r from-slate-500 to-slate-200 rounded-md' id='why'></div>
       <div className='row py-1 text-center font-bold xl:text-3xl'> 
         <div className='grid grid-cols-1 gap-1'>
