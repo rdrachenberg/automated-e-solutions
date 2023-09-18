@@ -59,7 +59,7 @@ const Testimonials = () => {
                 
                 <div className="mb-12 md:mb-0">
                     <div className="mb-6 flex justify-center">
-                        <Image width={500} height={500} src="/misc/girl-one.jpeg" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial one person'/>
+                        <Image width={500} height={500} src="/misc/patel-blur-round.png" className="w-32 max-h-[131.33px] bg-cover bg-center rounded-full shadow-lg dark:shadow-black/30" alt='testimonial one person'/>
                     </div>
                     <h5 className="mb-4 text-xl font-semibold">Dr. Patel T, MD</h5>
                     <p className="mb-4 text-lg">
@@ -78,7 +78,7 @@ const Testimonials = () => {
                 </div>
                 <div className="mb-12 md:mb-0">
                     <div className="mb-6 flex justify-center">
-                    <Image width={500} height={500} src="/misc/person--round.jpg" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person two'/>
+                        <Image width={500} height={500} src="/misc/working-dude.png" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person two'/>
                     </div>
                     <h5 className="mb-4 text-xl font-semibold">John B</h5>
                     <p className="mb-4 text-lg">
@@ -96,7 +96,7 @@ const Testimonials = () => {
                 </div>
                 <div className="mb-1 md:mb-0">
                     <div className="mb-6 flex justify-center">
-                    <Image width={500} height={500} src="/misc/girl-two.jpeg" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person three'/>
+                    <Image width={500} height={500} src="/misc/alex-h-blur.png" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person three'/>
                     </div>
                     <h5 className="mb-4 text-xl font-semibold">Alex H.</h5>
                     <p className="mb-4 text-lg">
