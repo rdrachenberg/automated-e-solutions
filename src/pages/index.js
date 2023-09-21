@@ -29,7 +29,7 @@ export default function Home({}) {
           </div>
         
       </div>
-      <div className='row pt-3 pb-12'>
+      <div className='row pt-3'>
         <div className='flex flex-col items-center font-semibold text-2xl'>
           <Link href={'/#calender'}>
               <button className='w-96 rounded-full mx-auto bg-gradient-to-r from-indigo-400 to-cyan-400 p-3 shadow-xl text-cyan-50' onClick={(e)=> handleCalClick(e, '/#calender')}>Schedule a call now</button>

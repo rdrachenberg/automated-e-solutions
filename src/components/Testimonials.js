@@ -78,7 +78,7 @@ const Testimonials = () => {
                 </div>
                 <div className="mb-12 md:mb-0">
                     <div className="mb-6 flex justify-center">
-                        <Image width={500} height={500} src="/misc/working-dude.png" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person two'/>
+                        <Image width={500} height={500} src="/misc/jonh-b-rounded.png" className="w-32 max-h-[131.33px] bg-cover bg-center rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person two'/>
                     </div>
                     <h5 className="mb-4 text-xl font-semibold">John B</h5>
                     <p className="mb-4 text-lg">
@@ -96,7 +96,7 @@ const Testimonials = () => {
                 </div>
                 <div className="mb-1 md:mb-0">
                     <div className="mb-6 flex justify-center">
-                    <Image width={500} height={500} src="/misc/alex-h-blur.png" className="w-32 rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person three'/>
+                    <Image width={100} height={100} src="/misc/alex-h-rounded.png" className="w-32 max-h-[131.33px] bg-cover bg-center rounded-full shadow-lg dark:shadow-black/30" alt='testimonial person three'/>
                     </div>
                     <h5 className="mb-4 text-xl font-semibold">Alex H.</h5>
                     <p className="mb-4 text-lg">
