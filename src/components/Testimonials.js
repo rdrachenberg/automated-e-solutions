@@ -13,7 +13,7 @@ const Testimonials = () => {
                 </div>
             </div>
             <div className='text-center bg-slate-700 rounded-xl p-6 mb-12 shadow-2xl'>
-                <h4 className="mb-6 text-lg sm:text-2xl mx-auto text-semibold text-cyan-50 bg-gradient-to-r from-indigo-400 to-cyan-400 p-3 rounded-xl">
+                <h4 className="mb-6 text-lg sm:text-2xl mx-auto text-semibold text-cyan-50 bg-gradient-to-r from-slate-700 to-cyan-400 p-3 rounded-xl">
                     We do all the heavy lifting!
                 </h4>
                 <p className="mb-1 pb-1 md:mb-1 md:pb-0 text-lg text-cyan-50">
@@ -27,7 +27,7 @@ const Testimonials = () => {
                     <li className='text-lg font-semibold pb-4'>Say goodbye to the complexities of operating digital storefronts. We handle everything from A to Z, allowing you to focus on growing your brand.</li>
                     <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Customized Strategies:</li>
                     <li className='text-lg font-semibold pb-4'>We understand that every business is unique. Our strategies are tailor-made to fit your specific goals, ensuring maximum return on investment.</li>
-                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><Cog6ToothIcon className='flex w-7 text-gray-300 mr-1' />Continuous Optimization:</li>
+                    <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><Cog6ToothIcon className='flex w-7 text-green-400 mr-1' />Continuous Optimization:</li>
                     <li className='text-lg font-semibold pb-4'>In the fast-paced digital landscape, we dont rest on our laurels. Our team continuously fine-tunes your digital storefronts to adapt to market trends, algorithm changes, and customer preferences.</li>
                     <li className='text-xl font-extrabold text-decoration-line: underline text-blue-300 flex'><CheckBadgeIcon className='flex w-7 text-green-500 mr-1' />Comprehensive Support: </li>
                     <li className='text-lg font-semibold pb-4'>We offer end-to-end assistance in launching and maintaining successful Amazon e-commerce stores, ensuring you can focus on other aspects of your business while we handle the rest.</li>

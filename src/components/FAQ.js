@@ -19,13 +19,13 @@ const FAQ = () => {
                 </p>
                 <div className="hidden md:block">
                     <div className='p-3 mb-20 mx-auto'>
-                        <Image width={500} height={500} src='/misc/faq-2.jpg' alt='light bulb ecommerce business' className='mx-auto my-auto'/>
+                        <Image width={500} height={500} src='/misc/faq-2.jpg' alt='light bulb ecommerce business' className='mx-auto my-auto w-full h-auto' priority/>
                     </div>
                     <div className='p-3 border-8 border-orange-300 w-96 mx-auto'>
-                        <Image width={400} height={500} src='/misc/faq.jpg' alt='Frequently asked questions ecommerce business' className='mx-auto my-auto'/>
+                        <Image width={400} height={500} src='/misc/faq.jpg' alt='Frequently asked questions ecommerce business' className='mx-auto my-auto w-full h-auto' priority/>
                     </div>
                     <div className=' p-3 mt-20 border-8 border-green-500 max-w-max mx-auto'>
-                        <Image width={400} height={500} src='/misc/success.jpg' alt='plan for success ecommerce business' className='mx-auto my-auto'/>
+                        <Image width={400} height={500} src='/misc/success.jpg' alt='plan for success ecommerce business' className='mx-auto my-auto w-full h-auto' priority/>
                     </div>
                 </div>
             </div>
