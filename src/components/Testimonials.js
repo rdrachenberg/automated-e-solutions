@@ -5,7 +5,7 @@ import { CheckBadgeIcon, Cog6ToothIcon, CurrencyDollarIcon, ChartBarIcon, Cursor
 const Testimonials = () => {
     return (
         <div>
-            <div className="border-4 rounded-1xl  h-20 z-0">
+            <div className="border-4 border-gray-200 rounded-xl bg-gray-300 h-20 z-0">
                 <div className="mx-auto text-center md:max-w-xl lg:max-w-3xl sm:max-w-sm z-10">
                     <div className="mb-6 text-2xl sm:text-3xl pt-6 font-bold  text-neutral-800 dark:text-black z-20">
                         Why work with us?
