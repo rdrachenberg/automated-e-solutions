@@ -38,7 +38,7 @@ const FAQ = () => {
 
                 <p className="mb-4 font-bold">Is this a truly passive business?</p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                On average, clients spend only 3-6 hours per month on this business. Your main responsibilities include purchasing inventory, managing Amazon payouts, and paying off inventory purchases.
+                On average, clients spend only 3-6 hours per month on this business. Your main responsibilities are managing Amazon/Walmart payouts, and maintaining available capital for inventory purchases.
                 </p>
 
                 <p className="mb-4 font-bold">
@@ -51,7 +51,7 @@ const FAQ = () => {
                 Why dont you just open up a bunch of digital stores?
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Amazon only allows 1 Seller per household. They track IP addresses to ensure this is upheld. Amazon permits only one seller per household.. b.	Capital reasons. We utilize our clients' capital to enable them to buy wholesale items at a discount, sell on Amazon, and then reinvest a percentage for scaling operations and sourcing better product deals Realistically, what can I expect to earn from my partner store?
+                Amazon only allows 1 Seller per household. They track IP addresses to ensure this is upheld. Amazon permits only one seller per household. The other reason is Capital reasons. We utilize our clients' capital to enable them to buy wholesale items at a discount, sell on Amazon, and then reinvest a percentage for scaling operations and sourcing better product deals Realistically, what can I expect to earn from my partner store?
                 </p>
                 <p className="mb-4 font-bold">
                 Realistically, what can I expect to earn from my partner store??
