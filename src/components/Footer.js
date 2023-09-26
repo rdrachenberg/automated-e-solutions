@@ -13,7 +13,7 @@ export default function Footer() {
     return (
         <footer className='border-t border-gray-100 py-10 text-center'>
             <p className='text-sm text-gray-500'>
-                @ {dateYear} Automated Ecom Investments, LLC. All rights reserved 
+                @ {dateYear} Automated Ecom Investments, LLC dba/Automated Ecom Solutions All rights reserved 
             </p>
             <Link href={'/tos'}>
                 <p className='text-sm text-gray-500'>
