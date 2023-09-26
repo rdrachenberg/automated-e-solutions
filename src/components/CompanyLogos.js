@@ -1,7 +1,7 @@
 import Image from "next/image"
 const CompanyLogos = () => {
     return (
-        <div className='container mx-auto mt-10 sm:grid sm:grid-flow-col sm:grid-cols-6 sm:grid-gap-4 sm:mx-auto items-center min-w-screen flex mb-10'>
+        <div className='container mx-auto mt-10 sm:grid sm:grid-flow-col sm:grid-cols-6 sm:grid-gap-4 sm:mx-auto items-center min-w-screen flex mb-0'>
             <div className='p-2 sm:p-6'>
                 <Image width={125} height={125} src='/misc/acer.png' alt='acer comany logo' style={{ width: '100%', height: 'auto' }}/>
             </div>

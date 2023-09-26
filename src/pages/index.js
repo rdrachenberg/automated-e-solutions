@@ -38,7 +38,6 @@ export default function Home({}) {
         </div>
       </div>
       <CompanyLogos />
-      
       <div className='h-3 mb-20 bg-gradient-to-r from-slate-500 to-slate-200 rounded-md' id='why'></div>
       <div className='row py-1 text-center font-bold xl:text-3xl'> 
         <div className='grid grid-cols-1 gap-1'>
