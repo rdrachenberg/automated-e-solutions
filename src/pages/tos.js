@@ -56,7 +56,8 @@ const TOS = () => {
 
                 If you have any questions or concerns about these terms, please contact us at contact email Info@automatedecominvestments.com.
 
-                By using Automated ecom investments LLC's services, you acknowledge that you have read, understood, and agreed to these Terms of Service.
+                By using Automated Ecom Investments LLC's services, you acknowledge that you have read, understood, and agreed to these Terms of Service. 
+                11. Special Attribution: <a href="https://www.freepik.com/free-vector/social-media-icons-vector-set-with-facebook-instagram-twitter-tiktok-youtube-logos_17221195.htm#query=social%20media&position=1&from_view=search&track=ais">Image by rawpixel.com</a> on Freepik
             </p>
         </div>
     )
