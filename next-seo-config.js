@@ -1,5 +1,5 @@
 export const NEXT_SEO_DEFAULT = {
-    title: 'Automated ecommerce investments',
+    title: 'Automated Ecommerce Solutions',
     description: "e-commerce" +
     "e-commerce definition" +
     "intuit e-commerce service" +
@@ -697,7 +697,7 @@ export const NEXT_SEO_DEFAULT = {
       type: 'website',
       locale: 'en_IE',
       url: 'https://automated-e-solutions.vercel.app/',
-      title: 'Automated ecommerce investments',
+      title: 'Automated Ecommerce Solutions',
       description: "e-commerce" +
       "e-commerce definition" +
       "intuit e-commerce service" +
