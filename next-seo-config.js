@@ -696,7 +696,7 @@ export const NEXT_SEO_DEFAULT = {
     openGraph: {
       type: 'website',
       locale: 'en_IE',
-      url: 'https://automated-e-solutions.vercel.app/',
+      url: 'https://aecomsolution.com/',
       title: 'Automated Ecommerce Solutions',
       description: "e-commerce" +
       "e-commerce definition" +
