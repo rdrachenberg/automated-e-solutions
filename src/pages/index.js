@@ -61,7 +61,7 @@ export default function Home({}) {
           <CalendylyForm />
         </div>
       </div>
-      <div className='h-3 mb-10 mt-20 bg-gradient-to-r from-slate-300 to-slate-500 rounded-md'></div>
+      
     </div>
   )
 }
