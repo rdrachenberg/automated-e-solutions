@@ -33,7 +33,7 @@ const FAQ = () => {
             <div className="mb-6 md:mb-0">
                 <p className="mb-4 font-bold">How long does it take until my store is running?</p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Typically, it takes about a month for your store to become operational and for your initial inventory purchase to be sent to your FBA account. Full scaling to maximize inventory purchasing power usually takes 3-6 months. How truly passive is this business?
+                dawsTypically, it takes about a month for your store to become operational and for your initial inventory purchase to be sent to your FBA account. Full scaling to maximize inventory purchasing power usually takes 3-6 months.
                 </p>
 
                 <p className="mb-4 font-bold">Is this a truly passive business?</p>
@@ -51,13 +51,13 @@ const FAQ = () => {
                 Why dont you just open up a bunch of digital stores?
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Amazon only allows 1 Seller per household. They track IP addresses to ensure this is upheld. Amazon permits only one seller per household. The other reason is Capital reasons. We utilize our clients' capital to enable them to buy wholesale items at a discount, sell on Amazon, and then reinvest a percentage for scaling operations and sourcing better product deals Realistically, what can I expect to earn from my partner store?
+                Amazon only allows 1 Seller per household. They track IP addresses to ensure this is upheld. Amazon permits only one seller per household. The other reason is Capital reasons. We utilize our clients' capital to enable them to buy wholesale items at a discount, sell on Amazon, and then reinvest a percentage for scaling operations and sourcing better product deals.
                 </p>
                 <p className="mb-4 font-bold">
                 Realistically, what can I expect to earn from my partner store??
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Typically, our partner stores generate monthly returns ranging from 10% to 15% of their total revenue after the profit split,  once the store is fully scaled. The more inventory you purchase, the higher your potential earnings, with profit margins remaining constant. Successful partners often have more capital and effective credit and cash flow management.
+                Typically, our partner stores generate monthly returns around 20% of their total revenue after the profit split, once the store is fully scaled. The more inventory you purchase, the higher your potential earnings, with profit margins remaining constant. Successful partners often have more capital and effective credit and cash flow management.
 
                 </p>
                 <p className="mb-4 font-bold">
