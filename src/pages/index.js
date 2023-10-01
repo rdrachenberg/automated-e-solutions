@@ -55,7 +55,7 @@ export default function Home({}) {
           <Qualify />    
         </div>
       </div>
-      <div className='h-3 mb-10 mt-20 sm:mt-10 sm:mb-0 bg-gradient-to-r from-slate-300 to-slate-500 rounded-md' id='calender'></div>
+      <div className='h-3 mb-10 mt-2 sm:mt-2 sm:mb-0 bg-gradient-to-r from-slate-300 to-slate-500 rounded-md' id='calender'></div>
       <div className='row py-12 text-center font-bold text-3xl' >
         <div className='grid grid-cols-1 gap-1'>
           <CalendylyForm />
