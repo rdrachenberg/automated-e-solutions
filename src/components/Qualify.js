@@ -15,7 +15,7 @@ const Qualify = () => {
                 </div>
             </div>
             <div className='mt-20'>
-                <Image width={500} height={500} src='/misc/point-up.jpg' alt="e-commerce girl pointing up" className='rounded-lg mx-auto shadow-xl' style={{width:'100%', height:'auto'}}/>
+                <Image width={200} height={200} src='/misc/point-up.jpg' alt="e-commerce girl pointing up" className='rounded-lg mx-auto shadow-xl max-w-md' style={{width:'auto', height:'auto'}}/>
             </div>
         </div>
     )
