@@ -4,12 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "generate prisma && next build",
+    "build": "npx generate prisma && next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.17",
+    "@prisma/client": "^5.4.1",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@unform/web": "^2.1.6",
     "@vercel/analytics": "^1.0.2",
