@@ -24,7 +24,7 @@ export default function Home({}) {
           <div className='border-2 rounded shadow-md mx-auto flex items-center justify-center'>
           <div className='flex-1 p-4 rounded-lg max-w-4xl sm:p-8'>
             <div className='aspect-w-16 aspect-h-9'>
-              <iframe src="https://www.youtube.com/embed/IucjtBsSGu4?si=YXgaR3bc4h0fA1jQ" title="e-commerce digital storefront business" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen className='mx-auto'></iframe>
+              <iframe src="https://www.youtube.com/embed/IucjtBsSGu4?si=YXgaR3bc4h0fA1jQ"  title="e-commerce digital storefront business" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen className='mx-auto'></iframe>
             </div>
           </div>
           </div>
