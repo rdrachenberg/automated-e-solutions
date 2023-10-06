@@ -33,7 +33,7 @@ const FAQ = () => {
             <div className="mb-6 md:mb-0">
                 <p className="mb-4 font-bold">How long does it take until my store is running?</p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                dawsTypically, it takes about a month for your store to become operational and for your initial inventory purchase to be sent to your FBA account. Full scaling to maximize inventory purchasing power usually takes 3-6 months.
+                Typically, it takes about a month for your store to become operational and for your initial inventory purchase to be sent to your FBA account. Full scaling to maximize inventory purchasing power usually takes 3-6 months.
                 </p>
 
                 <p className="mb-4 font-bold">Is this a truly passive business?</p>

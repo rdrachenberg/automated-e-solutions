@@ -5,7 +5,6 @@ import Testimonials from "src/components/Testimonials"
 import Qualify from 'src/components/Qualify'
 import FAQ from 'src/components/FAQ'
 import CompanyLogos from 'src/components/CompanyLogos'
-import SocialLogos from "src/components/SocialLogos"
 
 const handleCalClick = (e, path) => {
   if(path === '/#calender'){
