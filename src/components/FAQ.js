@@ -48,13 +48,13 @@ const FAQ = () => {
                 Yes, we operate a mix of our own warehouses and utilize third parties in Florida and California. We also have a third office with backend support in and outside the US. We source inventory from various locations in the US and distribute it from our warehouses to our partner Store's FBA / Arbitrage accounts.
                 </p>
                 <p className="mb-4 font-bold">
-                Why dont you just open up a bunch of digital stores?
+                Why don't you just open up a bunch of digital stores?
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
-                Amazon only allows 1 Seller per household. They track IP addresses to ensure this is upheld. Amazon permits only one seller per household. The other reason is Capital reasons. We utilize our clients' capital to enable them to buy wholesale items at a discount, sell on Amazon, and then reinvest a percentage for scaling operations and sourcing better product deals.
+                Amazon allows only one seller per household.. They track IP addresses to ensure this is upheld. The other reason is Capital reasons. We utilize our clients' capital to enable them to buy wholesale items at a discount, sell on Amazon, and then reinvest a percentage for scaling operations and sourcing better product deals.
                 </p>
                 <p className="mb-4 font-bold">
-                Realistically, what can I expect to earn from my partner store??
+                Realistically, what can I expect to earn from my partner store?
                 </p>
                 <p className="mb-12 text-neutral-500 dark:text-gray-700">
                 Typically, our partner stores generate monthly returns around 20% of their total revenue after the profit split, once the store is fully scaled. The more inventory you purchase, the higher your potential earnings, with profit margins remaining constant. Successful partners often have more capital and effective credit and cash flow management.
