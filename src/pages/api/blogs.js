@@ -18,21 +18,22 @@ export default async function handle(req, res) {
                 }
             }
             case 'POST': {
-                // create a new user 
+                // create a new post 
                 const {author, title, content} = req.body;
+                console.log(author, title, content);
                 const post = await createPost(author, title, content);
-
+                
                 return res.json(post);
             }
             case 'PUT': {
-                // update a user record
+                // update a post record
                 const {id, ...updateData} = req.body; 
                 const post = await updatePost(id, updateData);
 
                 return res.json(post);
             }
             case 'DELETE': {
-                // delete a user record
+                // delete a post record
                 const {id} = req.body;
                 const post = await deletePost(id);
                 

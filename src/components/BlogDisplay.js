@@ -18,7 +18,7 @@ export default function BlogCard({post, index}) {
             {!open ? 
                 <></>
                 : 
-                <div className='mt-4 flex items-center justify-between space-x-2'>
+                <div className='mt-4 flex items-center justify-between space-x-2 bg-black rounded-xl p-5 container'>
                     <div>
                         <p className='font-semibold text-md'>{post.content}</p>
                     </div>
