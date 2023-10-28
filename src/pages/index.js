@@ -17,7 +17,6 @@ export default function Home({}) {
     
     <div className='container xl:max-w-screen-xl mx-auto lg:py-1 px-6 sm:py-6 '>
       <div className='row py-6 text-center font-bold text-black '> 
-        
         <div className='inline-block sm:hidden text-xl mb-5'>Automated Ecom Solutions</div>
         <div className='bg-slate-300 rounded-lg mx-auto sm:text-3xl p-3'>Are You Looking For An Automated FBA Store Partner That Provides Profitable Wholesale Items & Top-Tier Customer Service?</div>
           <div className='border-2 rounded shadow-md mx-auto flex items-center justify-center'>
