@@ -3,7 +3,7 @@ import { InlineWidget } from "react-calendly";
 const CalendlyForm = () => {
     return (
         <div id='stepper'>
-            <InlineWidget url='https://calendly.com/d/2x6-dfk-s3z/30-minute-meeting' styles={{height: '1000px'}}/>
+            <InlineWidget url='https://calendly.com/automatedecominvestments/1-million-dollar-business' styles={{height: '1000px'}}/>
         </div>
     )
 }
