@@ -9,6 +9,7 @@ export default function Meta() {
         <Head nonce={nonce}>
             <title>Automated Ecommerce Solutions</title>
             <link rel='icon' type='image/x-icon' href='/favicon.ico?v=1'/>
+            <link rel='canonical' href='https://www.aecomsolution.com/' />
         </Head>
     )
 }
