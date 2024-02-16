@@ -4,7 +4,7 @@
 
 ### To create an appointment setter marketing app that has calendly integration
 
-### Tech
+### 📚 Tech 📚
 * [React 18.2](https://github.com/facebook/react/blob/main/CHANGELOG.md#1820-june-14-2022)
 * [Nextjs](https://nextjs.org/docs)
 * [TailwindCSS](https://tailwindcss.com/)
